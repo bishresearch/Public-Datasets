@@ -25,11 +25,11 @@
   <p>Explore the datasets in detail <a href="https://github.com/raselsarker69/Public-Datasets" target="_blank">here</a>.</p>
 
   <h2>Additional Resources</h2>
-  <p>Join our Facebook group for more discussions and resources: <a href="https://www.facebook.com/groups/832585175685301" target="_blank">StudyMart Facebook Group</a>.</p>
+  <p>Join our Facebook group for more discussions and resources: <a href="https://www.facebook.com/groups/832585175685301" target="_blank">Machine Learning & AI Research Bangladesh.</a>.</p>
 
   <footer>
     <p>Visit my <a href="https://my-portfolio-eight-ebon-51.vercel.app/" target="_blank">portfolio</a></p>
-    <p>Join our Facebook group: <a href="https://www.facebook.com/groups/832585175685301" target="_blank">StudyMart Facebook Group</a>.</p>
+    <p>Join our Facebook group: <a href="https://www.facebook.com/groups/832585175685301" target="_blank">Machine Learning & AI Research Bangladesh.</a>.</p>
   </footer>
 </body>
 </html>
